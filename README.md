@@ -40,5 +40,5 @@
 
 
 <br>
-(https://github-readme-stats.vercel.app/api?username=henry-codex)](https://github.com/henry-codex/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=henry-codex)(https://github.com/henry-codex/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henry-codex&show_icons=true&theme=radical)
