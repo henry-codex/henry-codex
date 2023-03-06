@@ -42,3 +42,13 @@
 ## Github Stats 
 
 [![henry Github Stats](https://github-readme-stats.vercel.app/api?username=henry-codex&show_icons=true&theme=tokyonight)](https://github.com/henry-codex/github-readme-stats)
+
+
+## Github Top languages Used
+<div align="right" width="350" height="150">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry-codex&layout=compact&theme=radical)
+  
+</div>
+
+
