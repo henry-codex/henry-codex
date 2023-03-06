@@ -39,6 +39,6 @@
 💼 LinkedIn: [Henry Tetteh](https://www.linkedin.com/in/henry-tei-mensah-tetteh-a7358b25a/)
 
 
-<br>
-[![henry-codex GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/henry-codex/github-readme-stats)
-![Github stats](https://github-readme-stats.vercel.app/api?username=henry-codex&show_icons=true&theme=radical)
+## Github Stats 
+
+[![henry Github Stats](https://github-readme-stats.vercel.app/api?username=henry-codex&show_icons=true&theme=radical)](https://github.com/henry-codex/github-readme-stats)
