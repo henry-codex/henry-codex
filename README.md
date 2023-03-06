@@ -41,4 +41,4 @@
 
 ## Github Stats 
 
-[![henry Github Stats](https://github-readme-stats.vercel.app/api?username=henry-codex&show_icons=true&theme=radical)](https://github.com/henry-codex/github-readme-stats)
+[![henry Github Stats](https://github-readme-stats.vercel.app/api?username=henry-codex&show_icons=true&theme=tokyonight)](https://github.com/henry-codex/github-readme-stats)
