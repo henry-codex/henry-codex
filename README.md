@@ -5,7 +5,7 @@
     <li>🔭 I’m currently working on improving my skills in full stack development, with a focus on building scalable and efficient applications.</li>
     <li>🌱 I’m constantly learning new technologies and frameworks to stay up-to-date with the latest developments in the industry.</li>
     <li>👯 I’m looking to collaborate on projects with people who are passionate about creating world-changing programs.</li>
-    <li>💬 Ask me about anything related to C, JavaScript, CSS3, HTML5, blockchain and Web 3. I'm always happy to share my knowledge and help others.</li>
+    <li>💬 Ask me about anything related to C, Python, JavaScript, MYSQL, CSS3, HTML5, blockchain and Web 3. I'm always happy to share my knowledge and help others.</li>
     <li>📫 You can reach me at my email address: henryteimensah@gmail.com</li>
     <li>😄 Pronouns: he/him</li>
     <li>⚡ Fun fact: I love watching anime and I'm a big fan of Manchester United.</li>
@@ -20,6 +20,8 @@
     <li>HTML5 markup language</li>
     <li>CSS3 styling language</li>
     <li>Shell scripting in linux</li>
+     <li>Python</li>
+     <li>MYSQL</li>
   </ul>
   <p>Let me know if there's anything else I can help you with!</p>
 </div>
