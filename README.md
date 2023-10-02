@@ -38,7 +38,7 @@
 
 🐦 Twitter: [@httetteh01](https://twitter.com/httetteh01)
 
-💼 LinkedIn: [Henry Tetteh](https://www.linkedin.com/in/henry-tei-mensah-tetteh-a7358b25a/)
+💼 LinkedIn: [Henry Tetteh](https://www.linkedin.com/in/henry-tetteh-a7358b25a/)
 
 
 ## Github Stats 
